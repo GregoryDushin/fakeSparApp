@@ -14,10 +14,6 @@
 
 Изображения - заглушки были использованы из одноименного приложения.
 
-## Requirements
-* iOS 13.0+
-* Xcode 13.0+
-
 ## Installation
 1. Fork and clone this project to your machine
 2. Open the `.xcodeproj` file in Xcode
